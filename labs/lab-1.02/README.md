@@ -107,7 +107,7 @@ NOTE: In order to save some time, we have not created the directory structure ou
                     "callbackUrl": "http://callback",
                     "name": "BookApp",
                     "scopes": [],
-                    "developerEmail": john.doe@acme.com
+                    "developerEmail": "john.doe@acme.com"
                 }   
             ]
         }
